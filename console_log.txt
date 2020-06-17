@@ -1,0 +1,161 @@
+Starting simulation.
+Planes in the air at 20s: 
+| 36 || 40 || 44 |
+Planes on the ground at 20s.
+| 7 || 11 || 15 || 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 21s: 
+| 36 || 40 || 44 |
+Planes on the ground at 21s.
+| 11 || 15 || 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 22s: 
+| 36 || 40 || 44 |
+Planes on the ground at 22s.
+| 11 || 15 || 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 23s: 
+| 36 || 40 || 44 |
+Planes on the ground at 23s.
+| 15 || 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 24s: 
+| 36 || 40 || 44 |
+Planes on the ground at 24s.
+| 15 || 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 25s: 
+| 36 || 40 || 44 |
+Planes on the ground at 25s.
+| 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 |
+Planes in the air at 26s: 
+| 36 || 40 || 44 || 48 |
+Planes on the ground at 26s.
+| 19 || 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 |
+Planes in the air at 27s: 
+| 36 || 40 || 44 || 48 |
+Planes on the ground at 27s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 |
+Planes in the air at 28s: 
+| 36 || 40 || 44 || 48 |
+Planes on the ground at 28s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 |
+Planes in the air at 29s: 
+| 40 || 44 || 48 |
+Planes on the ground at 29s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 |
+Planes in the air at 30s: 
+| 40 || 44 || 48 |
+Planes on the ground at 30s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 |
+Planes in the air at 31s: 
+| 44 || 48 || 52 |
+Planes on the ground at 31s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 |
+Planes in the air at 32s: 
+| 44 || 48 || 52 |
+Planes on the ground at 32s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 |
+Planes in the air at 33s: 
+| 48 || 52 |
+Planes on the ground at 33s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 |
+Planes in the air at 34s: 
+| 48 || 52 |
+Planes on the ground at 34s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 |
+Planes in the air at 35s: 
+| 52 || 56 |
+Planes on the ground at 35s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 |
+Planes in the air at 36s: 
+| 52 || 56 || 60 |
+Planes on the ground at 36s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 |
+Planes in the air at 37s: 
+| 56 || 60 || 64 |
+Planes on the ground at 37s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 |
+Planes in the air at 38s: 
+| 56 || 60 || 64 || 68 |
+Planes on the ground at 38s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 |
+Planes in the air at 39s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 39s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 40s: 
+| 76 || 60 || 64 || 68 || 72 |
+Planes on the ground at 40s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 41s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 41s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 42s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 42s.
+| 23 || 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 43s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 43s.
+| 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 44s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 44s.
+| 27 || 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 45s: 
+| 60 || 64 || 68 || 72 |
+Planes on the ground at 45s.
+| 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 |
+Planes in the air at 46s: 
+| 60 || 64 || 68 || 72 || 78 |
+Planes on the ground at 46s.
+| 31 || 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 |
+Planes in the air at 47s: 
+| 60 || 64 || 68 || 72 || 78 |
+Planes on the ground at 47s.
+| 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 |
+Planes in the air at 48s: 
+| 60 || 64 || 68 || 72 || 78 |
+Planes on the ground at 48s.
+| 35 || 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 |
+Planes in the air at 49s: 
+| 60 || 64 || 68 || 72 || 78 || 82 |
+Planes on the ground at 49s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 |
+Planes in the air at 50s: 
+| 60 || 64 || 68 || 72 || 78 || 82 |
+Planes on the ground at 50s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 |
+Planes in the air at 51s: 
+| 64 || 68 || 72 || 78 || 82 |
+Planes on the ground at 51s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 |
+Planes in the air at 52s: 
+| 64 || 68 || 72 || 78 || 82 |
+Planes on the ground at 52s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 |
+Planes in the air at 53s: 
+| 68 || 72 || 78 || 82 || 86 |
+Planes on the ground at 53s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 |
+Planes in the air at 54s: 
+| 68 || 72 || 78 || 82 || 86 |
+Planes on the ground at 54s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 |
+Planes in the air at 55s: 
+| 72 || 78 || 82 || 86 || 90 |
+Planes on the ground at 55s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 || 93 |
+Planes in the air at 56s: 
+| 72 || 78 || 82 || 86 || 90 |
+Planes on the ground at 56s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 || 93 |
+Planes in the air at 57s: 
+| 78 || 82 || 86 || 90 || 96 |
+Planes on the ground at 57s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 || 93 || 95 |
+Planes in the air at 58s: 
+| 78 || 82 || 86 || 90 || 96 || 98 |
+Planes on the ground at 58s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 || 93 || 95 || 101 |
+Planes in the air at 59s: 
+| 82 || 86 || 90 || 96 || 98 || 104 |
+Planes on the ground at 59s.
+| 39 || 43 || 47 || 51 || 55 || 59 || 63 || 67 || 71 || 75 || 81 || 85 || 89 || 93 || 95 || 101 || 103 |
